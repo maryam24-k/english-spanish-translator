@@ -1,4 +1,4 @@
-torch==2.3.0
+torch
 numpy
 streamlit
 matplotlib
